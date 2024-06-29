@@ -24,7 +24,7 @@ Examples of unacceptable behavior include:
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [email@example.com]. All complaints will be reviewed and investigated promptly and fairly.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [softwaredevelopement.ddt@gmail.com]. All complaints will be reviewed and investigated promptly and fairly.
 
 Community members are expected to adhere to these guidelines in all project spaces, including GitHub repositories, issues, code reviews, and events.
 
