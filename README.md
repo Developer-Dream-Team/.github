@@ -14,7 +14,7 @@ We welcome contributions from everyone! Before getting started, please review ou
 
 ## Contact
 
-If you have any questions, concerns, or need assistance, please feel free to contact us at [email@example.com].
+If you have any questions, concerns, or need assistance, please feel free to contact us at [softwaredevelopement.ddt@gmail.com].
 
 ---
 
